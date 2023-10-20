@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760688665960",
+    "project_id": "cat-fact-world",
+    "storage_bucket": "cat-fact-world.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760688665960:android:e6c595a9e4cb0bc5c362dd",
+        "android_client_info": {
+          "package_name": "com.example.catfact"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe_MU9-zLjweUtWEQFdnrr7a0LlagH5Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
