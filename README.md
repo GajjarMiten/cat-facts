@@ -21,8 +21,8 @@ Make sure you have Flutter and Dart installed. If not, follow the [official Flut
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-project.git
-   cd your-project
+   git clone https://github.com/GajjarMiten/cat-facts.git
+   cd cat-facts
    ```
 2. Install dependencies::
    ```bash
