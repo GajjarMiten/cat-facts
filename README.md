@@ -1,16 +1,42 @@
 # catfact
 
-A new Flutter project.
+[APK link](https://drive.google.com/file/d/1PIcUVpNSUMRy7sZYKqOMRWcYWYD024ie/view?usp=sharing). App displays random cat facts, and tracks the user interaction with it.
+
+## Table of Contents
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Make sure you have Flutter and Dart installed. If not, follow the [official Flutter installation guide](https://flutter.dev/docs/get-started/install).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/your-project.git
+   cd your-project
+   ```
+2. Install dependencies::
+   ```bash
+    flutter pub get
+   ```
+
+## Usage
+#### Running the Application
+You can run the project on an emulator or a physical device.
+   ```bash
+    flutter run
+   ```
+
+#### Building an APK
+ ```bash
+    flutter build apk --release
+   ```
